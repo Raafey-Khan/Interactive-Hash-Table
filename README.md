@@ -19,7 +19,7 @@ Option 1: Insert a key-value pair.                      |
 Option 2: Search for a key and display its value.       |
 Option 3: Delete a key and its associated value.        |
 Option 4: Exit the program.                             |
----------------------------------------------------------
+--------------------------------------------------------|
 Follow the on-screen instructions to perform the desired operations.
 Repeat steps 6-7 as needed.
 When finished, select the "Exit" option to exit the program.
